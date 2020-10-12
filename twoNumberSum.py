@@ -15,4 +15,4 @@ def twoNumberSum(array, targetSum):
 
 print(twoNumberSum([4, 6, 1, -3], 3))
 
-// # -4, -1, 1, 3, 5, 6, 8, 11
+# -4, -1, 1, 3, 5, 6, 8, 11
